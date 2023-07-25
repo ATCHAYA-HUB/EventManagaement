@@ -1,0 +1,51 @@
+.tickimg{
+    background-image: url(tick7.jpg);
+    height:100%;
+    width:770px;
+    background-size: contain;
+    float: left;
+}
+.eventname{
+    position: relative;
+    padding-left: 940px;
+    top: 120px;
+    color: rgb(255, 255, 255);
+    font-size:30px;
+    font-weight:540;
+    font-family: monospace;
+}
+.tick1 input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+.tickinput{
+    width: 100%;
+    height: 100%;
+    background: transparent;
+    border: none;
+    outline: none;
+    font-size: 16px;
+    padding-top: 20px;
+}
+.tickerror{
+   position: relative;
+   left: -65px;
+   font-size: small;
+   font-weight: 600;
+   color: red;
+}
+.tickbtn{
+    position: relative;
+    bottom: -80px;
+    height: 35px;
+    width:100px;
+    color: white;
+    outline: none;
+    border: none;
+    border-radius: 4px;
+    background-color: #eb3013;
+}
+.tickbtn:hover{
+    box-shadow: 0 1px 1px 0 rgba(0,0,0,0.24),0 1px 5px 0 rgba(0,0,0,0.19);
+}

@@ -1,0 +1,74 @@
+
+.eventhome{
+background-image: url(wel81.jpg);    
+background-repeat: no-repeat;
+background-position: bottom;
+background-size: cover;
+background-position: right;
+height:1100px ;
+width:1268px;
+}
+body::-webkit-scrollbar {
+    display: none;
+  }
+.imgevent{
+    background: rgba(0, 0, 0, 0.3); 
+    color: #f1f1f1; 
+    width: 100%; 
+    padding: 20px;
+    height: 100%;
+}
+.orgform{
+height:90%;
+width:70%;
+position: relative;
+left: 350px;
+top:100px;
+}
+.kind{
+    font-size: 22px;
+    margin-left:-100px;
+    font-weight: bold;
+    color: rgb(235, 135, 12);
+}
+#fname{
+    background: transparent;
+    overflow:hidden;
+    border: none;
+    outline: none;
+    color: #f1f1f1;
+    border-bottom: 2px solid rgb(255, 140, 0);
+    position: relative;
+    left:10px;
+}
+#browsers .input{
+    background: transparent;
+    border: none;
+    outline: none;
+    overflow:hidden;
+    color: #f1f1f1;
+    border-bottom: 2px solid rgb(255, 140, 0);
+    position: relative;
+    left:10px;
+}
+#lname{
+    background: transparent;
+    border:2px solid rgb(255, 140, 0) ;
+    margin-left: -180px;
+    outline: none;
+    overflow:hidden;
+    color: white;
+    font-size: 15px;
+    border-radius: 7px;
+}
+#fname::placeholder{
+    color: rgb(255, 176, 112);
+}
+#lname::placeholder{
+    color: rgb(255, 176, 112);
+}
+.evebtn{
+    position: relative;
+    top:20px;
+    right: 95px;
+}
