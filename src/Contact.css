@@ -1,0 +1,39 @@
+.conbg1{
+    background-color: aliceblue;
+    background-size: cover;
+    height: 100vh;
+    }
+    .imgcon{
+        background-image: url("https://image.lexica.art/full_jpg/155bc610-6093-4575-a516-7b8934b797ff");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        height: 280px;
+        border-radius: 10px;
+        width:400px;
+        position: relative;
+        top: 130px; left:550px;
+    }
+    .conbcont{
+        background-color: #0f9597;
+        height:115px;
+        width: 380px;
+        position: relative;
+        left: 510px;
+        top:50px;
+        color: white;
+        padding: 15px 20px;
+        border-radius:10px;
+    }
+    .contitle{
+        font-size: 22px;
+      font-weight: 700;
+      line-height: 30px;
+      color: #0f9597;
+      margin-top: -290px;
+      margin-left: 100px;
+    
+    }
+    * {
+        font-family: Nunito, sans-serif;
+      }

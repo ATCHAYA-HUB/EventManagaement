@@ -1,0 +1,17 @@
+
+.eventhomedelete{
+    background-image: url(wel81.jpg);    
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+    background-position: right;
+    height:1100px ;
+    width:1268px;
+    }
+    .imgeventdelete{
+        background: rgba(0, 0, 0, 0.3); 
+        color: #f1f1f1; 
+        width: 100%; 
+        padding: 20px;
+        height: 100%;
+    }

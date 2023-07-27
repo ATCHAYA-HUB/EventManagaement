@@ -1,0 +1,31 @@
+.etick{
+    position: relative;
+    background-image: url(wel44.jpg);
+    box-shadow: 2px 2px 2px 2px black;
+    background-position: center;
+    background-size: cover;
+    top:130px;
+    left:255px;
+    height: 45vh;
+    width:650px;
+}
+.etickbg{
+    background-color: rgb(52, 49, 49);
+    height: 100vh;
+}
+.etickwh{
+    height: 45vh;
+    position: relative;
+    left:910px;
+    top:-120px;
+    box-shadow: 2px 2px 2px 2px black;
+
+    width:100px;
+    background-color: white;
+}
+.eticktrans{
+    background: rgba(0, 0, 0, 0.3); 
+    color: #f1f1f1; 
+    height: 45vh;
+    padding: 20px;
+}

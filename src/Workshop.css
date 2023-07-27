@@ -1,0 +1,41 @@
+.concertbg{
+    background-color: rgb(255, 255, 255);
+    background-size:cover;
+    padding-top: 0px;
+    margin-bottom: 230px;
+}
+.contick{
+    position: relative;
+    background-image: url(wel44.jpg);
+    box-shadow: 2px 2px 2px 2px black;
+    background-position: center;
+    background-size: cover;
+    top:130px;
+    left:255px;
+    text-decoration: none;
+    height: 45vh;
+    width:650px;
+}
+.contick::before{
+    content: "";
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    color: white;
+    left: 126px;
+    background-color: rgba(0,0,0,0.3);
+}
+.contrans{
+    background-color: rgb(136, 135, 135);
+    box-shadow: 2px 2px 2px 2px black;
+    color: #f1f1f1; 
+    height: 45vh;
+    padding: 20px;
+    margin-left: 909px;
+    margin-top: -121px;
+}
+.conbox{
+    height: 45vh;
+    width:750px;
+}
